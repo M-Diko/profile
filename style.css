@@ -1,0 +1,86 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: #a8d5e5;
+  color: #3ba1c5;
+  margin: 2rem;
+}
+
+header {
+  margin: 2rem 0;
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
+  font-size: 2.85rem;
+}
+
+header img {
+  width: 3rem;
+  object-fit: contain;
+  border-radius: 50%;
+  width:200px;
+  height:200px;
+}
+
+header h1 {
+  margin: 0;
+  color: #3ba1c5;
+  font-size: 3.85rem;
+}
+
+header p {
+  margin: 0;
+  color: #3ba1c5;
+  font-size: 1.85rem;
+}
+
+#tabs {
+  max-width: 100%;
+  margin: 2rem 0;
+  overflow: hidden;
+}
+
+#tabs menu {
+  margin: 0;
+  padding: 0;
+  display: flex;
+  gap: 0.25rem;
+}
+
+#tabs button {
+  font: inherit;
+  font-size: 1.85rem;
+  background-color: #51abcb;
+  border: none;
+  border-bottom-color: #ffffff;
+  color: #e9f5f9;
+  border-radius: 4px 4px 0 0;
+  padding: 0.75rem 1rem;
+  cursor: pointer;
+  transition: all 0.2s ease-out;
+}
+
+#tabs button:hover,
+#tabs button.active {
+  background-color: #ffffff;
+  color: #2596be;
+}
+
+#tab-content {
+  background-color: #e9f5f9;
+  border-radius: 0 4px 4px 4px;
+  padding: 1rem;
+  background-size: cover;
+  background-position: center;
+  overflow-y: auto; 
+}
+
+#tab-content li {
+  margin: 1.75rem 0;
+  font-size: 1.85rem;
+  color: #2596be;
+}
+
