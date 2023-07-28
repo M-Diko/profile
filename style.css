@@ -84,3 +84,6 @@ header p {
   color: #2596be;
 }
 
+#tab-content ul {
+  list-style-type: none;
+}
