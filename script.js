@@ -2,52 +2,69 @@ const content = [
   [
     "<h4 style='text-align:center'>Applied Mathematics and Computer Science major currently working as a Junior Automation Tester for Adapt IT Education division. I work with Python and selenium to write test automation scripts, I do manual application software testing as well. I am currently working on a Javascript and C# courses to broaden my skills.</h4>",
     "<h4 style='text-align:center'>As an aspiring junior frontend software JavaScript developer, I am passionate about creating visually engaging and user-friendly web applications. With a solid foundation in HTML, CSS, and JavaScript</h4>",
-    "React Native (build native mobile apps with React)",
-    "React is extremely popular",
-    "It makes building complex, interactive UIs a breeze",
-    "It's powerful & flexible",
-    "It has a very active and versatile ecosystem",
-    "React is extremely popular",
-    "It makes building complex, interactive UIs a breeze",
-    "It's powerful & flexible",
-    "It has a very active and versatile ecosystem",
-    "React is extremely popular",
-    "It makes building complex, interactive UIs a breeze",
-    "It's powerful & flexible",
-    "It has a very active and versatile ecosystem",
-    "React is extremely popular",
-    "It makes building complex, interactive UIs a breeze",
-    "It's powerful & flexible",
-    "It has a very active and versatile ecosystem",
-    "React is extremely popular",
-    "It makes building complex, interactive UIs a breeze",
-    "It's powerful & flexible"
+    "<br>",
+    "<p style='text-align:center'>📍 Ferndale, Randburg</p>",
+    "<a href='https://www.linkedin.com/in/maliviwe-diko-85897a1b8/'><p style='text-align:center; color: #3ba1c5'>Linkedin Profile</h2></p></a>",
+    "<br>",
+    "<h4 style='text-align:center'> SKILLS</h4>",
+    "<p style='text-align:center'>HTML ⭐️⭐️⭐️⭐️⭐️</p>",
+    "<p style='text-align:center'>CSS ⭐️⭐️⭐️⭐️⭐️</p>",
+    "<p style='text-align:center'>Javascript ⭐️⭐️⭐️⭐️</p>",
+    "<p style='text-align:center'>Python ⭐️⭐️⭐️⭐️</p>",
+    "<p style='text-align:center'>C# ⭐️⭐️</p>",
+    "<p style='text-align:center'>Version Control/Git ⭐️⭐️⭐️</p>",
+    "<p style='text-align:center'>UI/UX Design ⭐️⭐️⭐️ </p>",
+    "<p style='text-align:center'>React ⭐️</p>",
+    "<br>",
+    "<p style='text-align:center'>Get if touch📧 maliviwediko03@gmail.com</p>",
+    "<p style='text-align:center'>Preview Resume 👀"
   ],
   [
-    "Components, JSX & Props",
-    "State",
-    "Hooks (e.g., useEffect())",
-    "Dynamic rendering"
+    '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/adapt.jpg" alt="uj" />',
+    "<h3 style='text-align:center'>ADAPT IT</h3>",
+    "<h3 style='text-align:center'>2022-Present</h3>",
+    "<p style='text-align:center'>Junior Test automation Engineer</p>",
+    "<br>",
+    '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/adapt.jpg" alt="stadio" />',
+    "<h3 style='text-align:center'>ADAPT IT</h3>",
+    "<h3 style='text-align:center'>2021 - 2022</h3>",
+    "<p style='text-align:center'>IT Graduate: Administrator</p>",
+    "<br>",
+    '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/barnato.png" alt="uj" />',
+    "<h3 style='text-align:center'>BARNATO PARK</h3>",
+    "<h3 style='text-align:center'>2021-2021</h3>",
+    "<p style='text-align:center'>Educator Assistant and Mathematics Tutor</p>",
+    "<br>",
+    '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/lucid.jfif" alt="stadio" />',
+    "<h3 style='text-align:center'>LUCID CLEAR CREDIT</h3>",
+    "<h3 style='text-align:center'>2019 - 2020</h3>",
+    "<p style='text-align:center'>Quality Assurance</p>",
+    "<br>"
   ],
   [
     '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/uj.jpg" alt="uj" />',
     "<h3 style='text-align:center'>UNIVERSITY OF JOHANNESBURG</h3>",
-    "<p style='text-align:center'>BSc Mathematical Sciences</p>",
+    "<h3 style='text-align:center'>2016-2020</h3>",
+    "<p style='text-align:center'>BSc Mathematical Sciences <span id='eyeIcon' onclick='openModal()'>👁️</span> </p>",
     "<p style='text-align:center'>Majoring in Applied MAthematics and Computer Science</p>",
     "<br>",
     '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/stadio.png" alt="stadio" />',
     "<h3 style='text-align:center'>STADIO</h3>",
+    "<h3 style='text-align:center'>2022 - 2022</h3>",
     "<p style='text-align:center'>Post Graduate Certificate in Education</p>",
     "<p style='text-align:center'>Specializing in Mathematics FET and SP Teaching</p>",
     "<br>",
     '<img style="display: block; margin: 0 auto;border-radius: 50%;width:200px;height:200px;" src="assets/Udemy.jpg" alt="udemy" />',
     "<h3 style='text-align:center'>UDEMY ONLINE CERTIFICATIONS </h3>",
-    "<p style='text-align:center'>Post Graduate Certificate in Education</p>",
-    "<p style='text-align:center'>Specializing in Mathematics FET and SP Teaching</p>",
-    "<p style='text-align:center'>Post Graduate Certificate in Education</p>",
-    "<p style='text-align:center'>Specializing in Mathematics FET and SP Teaching</p>",
-    "<p style='text-align:center'>Post Graduate Certificate in Education</p>",
-    "<p style='text-align:center'>Specializing in Mathematics FET and SP Teaching</p>"
+    "<p style='text-align:center'>The Complete Web Developer Course 3.0(in progress)</p>",
+    "<p style='text-align:center'></p>",
+    "<p style='text-align:center'>100 Days of Code: The Complete Python Pro Bootcamp for 2023</p>",
+    "<p style='text-align:center'>Selenium Webdriver with PYTHON from Scratch + Frameworks</p>",
+    "<p style='text-align:center'>Azure DevOps Boards for Project Managers/Analyst/Developers</p>",
+    "<p style='text-align:center'>Complete Python Developer in 2022: Zero to Mastery</p>",
+    "<p style='text-align:center'>Statistics for Data Science and Business Analysis</p>",
+    "<p style='text-align:center'>Mathematical Foundations of Machine Learning</p>",
+    "<p style='text-align:center'>Discrete Mathematics</p>"
   ],
   [
     "<h2 style='text-align:center'>BELOW ARE THE LIST OF FRONT END PROJECTS I AM BUSY WITH.</h2>",
@@ -114,3 +131,23 @@ btnAbout.addEventListener("click", handleClick);
 btnWork.addEventListener("click", handleClick);
 btnEducation.addEventListener("click", handleClick);
 btnProjects.addEventListener("click", handleClick);
+
+
+
+
+function openModal() {
+  const modal = document.getElementById('myModal');
+  modal.style.display = 'block';
+}
+
+function closeModal() {
+  const modal = document.getElementById('myModal');
+  modal.style.display = 'none';
+}
+
+const eyeIcon = document.getElementById('eyeIcon');
+eyeIcon.addEventListener('click', openModal);
+
+
+
+
