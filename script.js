@@ -68,7 +68,7 @@ const content = [
   ],
   [
     "<h2 style='text-align:center'>BELOW ARE THE LIST OF FRONT END PROJECTS I AM BUSY WITH.</h2>",
-      '<a href="https://www.google.com" ><h2>English to Korean Translater</h2></a>',
+      '<a href="https://m-diko.github.io/Ktranslator/" ><h2>English to Korean Translater</h2></a>',
       '<a href="https://m-diko.github.io/100DaysOfCode_Proj8_ToDoList/" ><h2>TO DO LIST</h2></a>',
       '<a href="https://m-diko.github.io/BankingApp/" ><h2>BANK APP</h2></a>',
       '<a href="https://m-diko.github.io/ChatBot-Skeleton-/" ><h2>CHATBOT SKELETON</h2></a>',
