@@ -68,12 +68,15 @@ const content = [
   ],
   [
     "<h2 style='text-align:center'>BELOW ARE THE LIST OF FRONT END PROJECTS I AM BUSY WITH.</h2>",
-      '<a href="https://m-diko.github.io/Ktranslator/" ><h2>English to Korean Translater</h2></a>',
+      '<a href="https://m-diko.github.io/CityDistanceCalc/" ><h2>DISTANCE CALCULATOR</h2></a></h2>',
+      '<a href="https://m-diko.github.io/gagtube/" ><h2>GAG TUBE</h2></a>',
+      '<a href="https://m-diko.github.io/Ktranslator/" ><h2>ENGLISH TO KOREAN TRANSLATOR</h2></a>',
       '<a href="https://m-diko.github.io/100DaysOfCode_Proj8_ToDoList/" ><h2>TO DO LIST</h2></a>',
       '<a href="https://m-diko.github.io/BankingApp/" ><h2>BANK APP</h2></a>',
       '<a href="https://m-diko.github.io/ChatBot-Skeleton-/" ><h2>CHATBOT SKELETON</h2></a>',
       '<a href="https://m-diko.github.io/portfolio/" ><h2>MY PORTILIO</h2></a>',
-      "<h6 style='text-align:center'>evidence of my work can be found in my github profile</h6>"
+      "<h6 style='text-align:center'>evidence of my work can be found in my github profile(all above best suitable for mobile view)</h6>",
+      "<h6 style='text-align:center'>(all projects above are still works in pregress)</h6>"
   ]
 ];
 
